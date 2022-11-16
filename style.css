@@ -1,0 +1,287 @@
+html{
+    font-size: 10px;
+    text-decoration: none;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+body{
+    margin:0;
+}
+header{
+    background-color: rgb(24, 23, 23);
+    height: 43px;
+    width:100%;
+    position: fixed;
+    padding-left: 140px;
+}
+.items{
+    color: rgb(204, 200, 200);
+    float: left;
+    text-decoration: none;
+    padding-left: 49px;
+    padding-top: 15px;
+    font-size: 11px;
+}
+#img{
+    width: 13px;
+    padding-top: 15px;
+
+}
+.ipad{
+    height: 645px;
+    background-image:url(hero__ecv967jz1y82_large.jpg) ;
+    background-position: 37% 60%;
+    background-repeat: no-repeat;
+    background-size: 400px 500px;
+}
+.title{
+    text-align: center;
+    padding-top: 165px;
+    padding-left: 433px;
+}
+.title-heading{
+    font-size: 50px;
+    font-weight: 500;
+
+}
+.title-subheading{
+    margin-top: -40px;
+    font-size: 30px;
+    font-weight: 400;
+
+}
+.title-time{
+    font-size: 25px;
+    color: rgb(136, 135, 135);
+    margin-top: -20px;
+}
+.cta{
+    text-align: center;
+    padding-left: 400px;
+}
+.cta-link{
+    text-decoration: none;
+    color: #06c;
+    font-size: 20px;
+    padding-left: 30px;
+}
+
+.iphone14pro{
+    height: 580px;
+    width:auto;
+    background-image:url(iphone14pro.jpg) ;
+    background-color: black;
+    background-position:50% 300% ;
+    background-repeat: no-repeat;
+    background-size: 700px 500px;
+    color: white;
+}
+.ititle{
+    text-align: center;
+}
+.ititle-heading{
+    font-size: 60px;
+    font-weight: 500;
+    padding-top: 73px;
+    margin-top: 0px;
+
+}
+.ititle-subheading{
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: -55px;
+
+}
+.ititle-time{
+    font-size: 20px;
+    color: rgb(136, 135, 135);
+}
+.icta{
+    text-align: center;
+    margin-top: -10px;
+}
+.icta-link{
+    text-decoration: none;
+    color: #06c;
+    font-size:20px;
+    padding-left: 20px;
+}
+
+.iphone14{
+    height: 580px;
+    width: auto;
+    background-image:url(14.jpg);
+    background-color:#fbfbfd;
+    background-position: 50% 300%;
+    background-repeat: no-repeat;
+    background-size: 900px 500px;
+    color: #1d1d1f;
+}
+
+.iwatch{
+    height: 580px;
+    margin-top: 10px;
+}
+.watch1{
+    height: 580px;
+    width: 50%;
+    background-image: url(w1.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 100%;
+    background-size: 800px 280px;
+    background-color:#fbfbfd;
+    float: left;
+}
+.watch2{
+    height: 580px;
+    width: 50%;
+    background-image: url(w2.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 100%;
+    background-size: 400px 280px;
+    background-color:black;
+    float: left;
+}
+.iwatch-heading{
+    font-size: 30px;
+    font-weight: 700;
+    padding-top: 55px;
+    color: #1d1d1f;
+    padding-left: 10px;
+}
+.iwatch-sub-heading{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 0px;  
+    color: #1d1d1f;
+}
+.wcta{
+    text-align: center;
+}
+.watch-cta{
+    text-decoration: none;
+    color: #06c;
+    font-size: 17px;
+    padding-left: 10px;
+}
+.iwatch2-heading{
+    font-size: 30px;
+    font-weight: 700;
+    padding-top: 55px;
+    color: white;
+    padding-left: 10px;
+}
+.iwatch2-sub-heading{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 0px;  
+    color: white;
+}
+.ipadpro{
+    height:580px;
+    width:50%;
+    background-image: url(ipadpro.og.jpg.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 40%;
+    background-size: 750px 650px;
+    background-color: #000;
+    float: left;
+}
+.atv{
+    height: 580px;
+    width: 50%;
+    background-image: url(atv2.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 950px 500px;
+    background-color: #F5F5F7;
+    float: left;
+}
+.atv-heading{
+    font-size: 30px;
+    font-weight: 700;
+    padding-top: 55px;
+    padding-left: 10px;
+}
+.atv-sub-heading{
+    font-size: 20px;
+    font-weight: 400;
+}
+.atv-img1{
+    padding-top: 80px;
+}
+
+
+footer{
+        margin-top: 30px;
+        height: 690px;
+        background: #f5f5f7;
+        color: #6e6e73;
+        padding-left: 190px;
+        padding-right: 190px;
+}
+.footer-data{
+    font-size: 12px;
+    font-weight: 400;
+    padding-top: 15px;
+    line-height: 25px;
+}
+hr {
+    margin-top: 35px;
+    width: 100%;
+}
+.fc1{
+    font-size: 12px;
+    font-weight: 400;
+    float: left;
+    text-decoration: none;
+}
+.fc2{
+    font-size: 12px;
+    font-weight: 400;
+    float: left;
+    margin-left: 80px;
+}
+.fc3{
+    font-size: 12px;
+    font-weight: 400;
+    float: left;
+    margin-left: 80px;
+}
+.fc4{
+    font-size: 12px;
+    font-weight: 400;
+    float: left;
+    margin-left: 80px;
+}
+.fc5{
+    font-size: 12px;
+    font-weight: 400;
+    float: left;
+    margin-left: 80px;
+}
+.fr2{
+    float: left;
+    font-size: 12px;
+}
+.f-link{
+    color: #06c;
+    text-decoration: none; 
+}
+.fr3{
+    font-size: 11px;
+    float: left;
+    float: left;
+}
+
+#h:hover {
+    color: white;
+}
+.l:hover{
+    text-decoration: underline;
+}
+
+.lastfoot{
+    text-decoration: none;
+    color: #6e6e73;
+
+}
